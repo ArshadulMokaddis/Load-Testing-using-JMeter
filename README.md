@@ -1,0 +1,1 @@
+Here I have done load testing of the demoblaze.com website. Here the header controller has home and cart added to the HTTP request. And Product1, Product2, and Product3 are added to the HTTP request in the product controller.
